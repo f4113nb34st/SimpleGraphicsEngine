@@ -46,5 +46,15 @@
   <ItemGroup>
     <None Include="app.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\IROM\CoreLib\CoreLib.csproj">
+      <Project>{40B7A5B5-BFB7-457A-932E-AA040F93BD77}</Project>
+      <Name>CoreLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\IROM\UtilLib\UtilLib.csproj">
+      <Project>{9E04AF51-348B-40D5-BBF9-F01AF3084D14}</Project>
+      <Name>UtilLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
