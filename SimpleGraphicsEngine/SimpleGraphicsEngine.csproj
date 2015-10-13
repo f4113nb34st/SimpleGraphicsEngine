@@ -56,5 +56,11 @@
       <Name>UtilLib</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Polygon3D" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Polygon3D\Polygon3DCore.cs" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
