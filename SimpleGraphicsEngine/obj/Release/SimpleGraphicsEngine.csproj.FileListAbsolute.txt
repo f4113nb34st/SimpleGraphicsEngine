@@ -1,0 +1,6 @@
+C:\MasterFolder\Coding\C#\SimpleGraphicsEngine\SimpleGraphicsEngine\obj\Release\SimpleGraphicsEngine.csprojResolveAssemblyReference.cache
+C:\MasterFolder\Coding\C#\SimpleGraphicsEngine\SimpleGraphicsEngine\bin\Release\SimpleGraphicsEngine.exe.config
+C:\MasterFolder\Coding\C#\SimpleGraphicsEngine\SimpleGraphicsEngine\bin\Release\SimpleGraphicsEngine.exe
+C:\MasterFolder\Coding\C#\SimpleGraphicsEngine\SimpleGraphicsEngine\bin\Release\CoreLib.dll
+C:\MasterFolder\Coding\C#\SimpleGraphicsEngine\SimpleGraphicsEngine\bin\Release\UtilLib.dll
+C:\MasterFolder\Coding\C#\SimpleGraphicsEngine\SimpleGraphicsEngine\obj\Release\SimpleGraphicsEngine.exe
